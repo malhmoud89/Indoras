@@ -1,0 +1,1271 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-09-07T19:41:58.959+03:00
+  initializedAtString: 2018-09-07T19:41:58.959+03:00
+  log:
+  - commitID: bdb10c4554fa5ae83326c6636f25cbf70d26ac1d
+    mergeA: 
+    mergeB: 
+    authorName: Mo Alhmoud
+    authorEmail: malhmoud@live.com
+    commitEmail: malhmoud@live.com
+    commitName: Mo Alhmoud
+    summary: Revert "Initial commit"
+    description: "Revert \"Initial commit\"\r\n\r\nThis reverts commit c788220b005426d74dc9493d5d120c3cd247f18d."
+    timeString: 2018-09-06T20:54:49.000+03:00
+    commitTimeString: 2018-09-06T20:54:49.000+03:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\UnityProjects\Indoras\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\UnityProjects\Indoras\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: C:\UnityProjects\Indoras\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 8d0292865151d82143929ea871db8ba7e295c26e
+    mergeA: 
+    mergeB: 
+    authorName: Mo Alhmoud
+    authorEmail: malhmoud@live.com
+    commitEmail: malhmoud@live.com
+    commitName: Mo Alhmoud
+    summary: InitialCommit
+    description: InitialCommit
+    timeString: 2018-09-06T20:54:22.000+03:00
+    commitTimeString: 2018-09-06T20:54:22.000+03:00
+    changes:
+    - path: Assets\DungeonCharacters.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters.meta
+      projectPath: Assets\DungeonCharacters.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo.meta
+      projectPath: Assets\DungeonCharacters\Skeletons_demo.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\DungeonSkeletons_pack.jpg
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\DungeonSkeletons_pack.jpg
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\DungeonSkeletons_pack.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\DungeonSkeletons_pack.jpg.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\DungeonSkeletons_pack.jpg.meta
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\DungeonSkeletons_pack.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\animation.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\animation.meta
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\animation.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_attack_A.FBX
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_attack_A.FBX
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_attack_A.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_attack_A.FBX.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_attack_A.FBX.meta
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_attack_A.FBX.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_idle_A.FBX
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_idle_A.FBX
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_idle_A.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_idle_A.FBX.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_idle_A.FBX.meta
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_idle_A.FBX.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_walk.FBX
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_walk.FBX
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_walk.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_walk.FBX.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_walk.FBX.meta
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\animation\DS_onehand_walk.FBX.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\models.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\models.meta
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\models.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\models\DungeonSkeleton_demo.FBX
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\models\DungeonSkeleton_demo.FBX
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\models\DungeonSkeleton_demo.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\models\DungeonSkeleton_demo.FBX.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\models\DungeonSkeleton_demo.FBX.meta
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\models\DungeonSkeleton_demo.FBX.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\models\Materials.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\models\Materials.meta
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\models\Materials.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\models\Materials\DS_skeleton_standard.mat
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\models\Materials\DS_skeleton_standard.mat
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\models\Materials\DS_skeleton_standard.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\models\Materials\DS_skeleton_standard.mat.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\models\Materials\DS_skeleton_standard.mat.meta
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\models\Materials\DS_skeleton_standard.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoEquipment.mat
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoEquipment.mat
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoEquipment.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoEquipment.mat.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoEquipment.mat.meta
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoEquipment.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoEquipment.tga
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoEquipment.tga
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoEquipment.tga
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoEquipment.tga.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoEquipment.tga.meta
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoEquipment.tga.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoSkeleton.png
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoSkeleton.png
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoSkeleton.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoSkeleton.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoSkeleton.png.meta
+      projectPath: Assets\DungeonCharacters\Skeletons_demo\models\Materials\DemoSkeleton.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\LocationTest.cs
+      fullPath: C:\UnityProjects\Indoras\Assets\LocationTest.cs
+      projectPath: Assets\LocationTest.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\LocationTest.cs.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\LocationTest.cs.meta
+      projectPath: Assets\LocationTest.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Footman.prefab
+      fullPath: C:\UnityProjects\Indoras\Assets\Prefabs\Footman.prefab
+      projectPath: Assets\Prefabs\Footman.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\Footman.prefab.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Prefabs\Footman.prefab.meta
+      projectPath: Assets\Prefabs\Footman.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\TestToon.prefab
+      fullPath: C:\UnityProjects\Indoras\Assets\Prefabs\TestToon.prefab
+      projectPath: Assets\Prefabs\TestToon.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefabs\TestToon.prefab.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Prefabs\TestToon.prefab.meta
+      projectPath: Assets\Prefabs\TestToon.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons.meta
+      projectPath: Assets\RPG_inventory_icons.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\Meat.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\Meat.png
+      projectPath: Assets\RPG_inventory_icons\Meat.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\Meat.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\Meat.png.meta
+      projectPath: Assets\RPG_inventory_icons\Meat.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\apple.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\apple.png
+      projectPath: Assets\RPG_inventory_icons\apple.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\apple.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\apple.png.meta
+      projectPath: Assets\RPG_inventory_icons\apple.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\armor.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\armor.png
+      projectPath: Assets\RPG_inventory_icons\armor.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\armor.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\armor.png.meta
+      projectPath: Assets\RPG_inventory_icons\armor.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\axe.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\axe.png
+      projectPath: Assets\RPG_inventory_icons\axe.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\axe.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\axe.png.meta
+      projectPath: Assets\RPG_inventory_icons\axe.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\b_t_01.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\b_t_01.png
+      projectPath: Assets\RPG_inventory_icons\b_t_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\b_t_01.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\b_t_01.png.meta
+      projectPath: Assets\RPG_inventory_icons\b_t_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\bag.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\bag.png
+      projectPath: Assets\RPG_inventory_icons\bag.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\bag.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\bag.png.meta
+      projectPath: Assets\RPG_inventory_icons\bag.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\belts.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\belts.png
+      projectPath: Assets\RPG_inventory_icons\belts.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\belts.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\belts.png.meta
+      projectPath: Assets\RPG_inventory_icons\belts.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\book.PNG
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\book.PNG
+      projectPath: Assets\RPG_inventory_icons\book.PNG
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\book.PNG.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\book.PNG.meta
+      projectPath: Assets\RPG_inventory_icons\book.PNG.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\boots.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\boots.png
+      projectPath: Assets\RPG_inventory_icons\boots.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\boots.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\boots.png.meta
+      projectPath: Assets\RPG_inventory_icons\boots.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\bracers.PNG
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\bracers.PNG
+      projectPath: Assets\RPG_inventory_icons\bracers.PNG
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\bracers.PNG.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\bracers.PNG.meta
+      projectPath: Assets\RPG_inventory_icons\bracers.PNG.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\cloaks.PNG
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\cloaks.PNG
+      projectPath: Assets\RPG_inventory_icons\cloaks.PNG
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\cloaks.PNG.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\cloaks.PNG.meta
+      projectPath: Assets\RPG_inventory_icons\cloaks.PNG.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\coins.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\coins.png
+      projectPath: Assets\RPG_inventory_icons\coins.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\coins.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\coins.png.meta
+      projectPath: Assets\RPG_inventory_icons\coins.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\f.PNG
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\f.PNG
+      projectPath: Assets\RPG_inventory_icons\f.PNG
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\f.PNG.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\f.PNG.meta
+      projectPath: Assets\RPG_inventory_icons\f.PNG.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\gem.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\gem.png
+      projectPath: Assets\RPG_inventory_icons\gem.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\gem.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\gem.png.meta
+      projectPath: Assets\RPG_inventory_icons\gem.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\gloves.PNG
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\gloves.PNG
+      projectPath: Assets\RPG_inventory_icons\gloves.PNG
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\gloves.PNG.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\gloves.PNG.meta
+      projectPath: Assets\RPG_inventory_icons\gloves.PNG.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\helmets.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\helmets.png
+      projectPath: Assets\RPG_inventory_icons\helmets.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\helmets.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\helmets.png.meta
+      projectPath: Assets\RPG_inventory_icons\helmets.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\hp.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\hp.png
+      projectPath: Assets\RPG_inventory_icons\hp.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\hp.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\hp.png.meta
+      projectPath: Assets\RPG_inventory_icons\hp.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\ingots.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\ingots.png
+      projectPath: Assets\RPG_inventory_icons\ingots.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\ingots.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\ingots.png.meta
+      projectPath: Assets\RPG_inventory_icons\ingots.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\mp.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\mp.png
+      projectPath: Assets\RPG_inventory_icons\mp.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\mp.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\mp.png.meta
+      projectPath: Assets\RPG_inventory_icons\mp.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\necklace.PNG
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\necklace.PNG
+      projectPath: Assets\RPG_inventory_icons\necklace.PNG
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\necklace.PNG.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\necklace.PNG.meta
+      projectPath: Assets\RPG_inventory_icons\necklace.PNG.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\pants.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\pants.png
+      projectPath: Assets\RPG_inventory_icons\pants.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\pants.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\pants.png.meta
+      projectPath: Assets\RPG_inventory_icons\pants.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\rings.PNG
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\rings.PNG
+      projectPath: Assets\RPG_inventory_icons\rings.PNG
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\rings.PNG.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\rings.PNG.meta
+      projectPath: Assets\RPG_inventory_icons\rings.PNG.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\scroll.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\scroll.png
+      projectPath: Assets\RPG_inventory_icons\scroll.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\scroll.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\scroll.png.meta
+      projectPath: Assets\RPG_inventory_icons\scroll.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\shield.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\shield.png
+      projectPath: Assets\RPG_inventory_icons\shield.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\shield.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\shield.png.meta
+      projectPath: Assets\RPG_inventory_icons\shield.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\shoulders.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\shoulders.png
+      projectPath: Assets\RPG_inventory_icons\shoulders.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\shoulders.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\shoulders.png.meta
+      projectPath: Assets\RPG_inventory_icons\shoulders.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\sword.png
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\sword.png
+      projectPath: Assets\RPG_inventory_icons\sword.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\RPG_inventory_icons\sword.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\RPG_inventory_icons\sword.png.meta
+      projectPath: Assets\RPG_inventory_icons\sword.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\New Material 1.mat
+      fullPath: C:\UnityProjects\Indoras\Assets\Scenes\New Material 1.mat
+      projectPath: Assets\Scenes\New Material 1.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\New Material 1.mat.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Scenes\New Material 1.mat.meta
+      projectPath: Assets\Scenes\New Material 1.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\New Material.mat
+      fullPath: C:\UnityProjects\Indoras\Assets\Scenes\New Material.mat
+      projectPath: Assets\Scenes\New Material.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\New Material.mat.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Scenes\New Material.mat.meta
+      projectPath: Assets\Scenes\New Material.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Scenes\SampleScene.meta
+      projectPath: Assets\Scenes\SampleScene.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\UnityProjects\Indoras\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene\NavMesh.asset
+      fullPath: C:\UnityProjects\Indoras\Assets\Scenes\SampleScene\NavMesh.asset
+      projectPath: Assets\Scenes\SampleScene\NavMesh.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene\NavMesh.asset.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Scenes\SampleScene\NavMesh.asset.meta
+      projectPath: Assets\Scenes\SampleScene\NavMesh.asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\myscene.unity
+      fullPath: C:\UnityProjects\Indoras\Assets\Scenes\myscene.unity
+      projectPath: Assets\Scenes\myscene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\myscene.unity.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Scenes\myscene.unity.meta
+      projectPath: Assets\Scenes\myscene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo.meta
+      projectPath: Assets\Toon_RTS_demo.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\Toon_RTS_Units.jpg
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\Toon_RTS_Units.jpg
+      projectPath: Assets\Toon_RTS_demo\Toon_RTS_Units.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\Toon_RTS_Units.jpg.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\Toon_RTS_Units.jpg.meta
+      projectPath: Assets\Toon_RTS_demo\Toon_RTS_Units.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\animations.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\animations.meta
+      projectPath: Assets\Toon_RTS_demo\animations.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\animations\WK_heavy_infantry_04_charge.FBX
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\animations\WK_heavy_infantry_04_charge.FBX
+      projectPath: Assets\Toon_RTS_demo\animations\WK_heavy_infantry_04_charge.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\animations\WK_heavy_infantry_04_charge.FBX.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\animations\WK_heavy_infantry_04_charge.FBX.meta
+      projectPath: Assets\Toon_RTS_demo\animations\WK_heavy_infantry_04_charge.FBX.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\animations\WK_heavy_infantry_05_combat_idle.FBX
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\animations\WK_heavy_infantry_05_combat_idle.FBX
+      projectPath: Assets\Toon_RTS_demo\animations\WK_heavy_infantry_05_combat_idle.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\animations\WK_heavy_infantry_05_combat_idle.FBX.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\animations\WK_heavy_infantry_05_combat_idle.FBX.meta
+      projectPath: Assets\Toon_RTS_demo\animations\WK_heavy_infantry_05_combat_idle.FBX.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\animations\WK_heavy_infantry_06_combat_walk.FBX
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\animations\WK_heavy_infantry_06_combat_walk.FBX
+      projectPath: Assets\Toon_RTS_demo\animations\WK_heavy_infantry_06_combat_walk.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\animations\WK_heavy_infantry_06_combat_walk.FBX.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\animations\WK_heavy_infantry_06_combat_walk.FBX.meta
+      projectPath: Assets\Toon_RTS_demo\animations\WK_heavy_infantry_06_combat_walk.FBX.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\animations\WK_heavy_infantry_08_attack_B.FBX
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\animations\WK_heavy_infantry_08_attack_B.FBX
+      projectPath: Assets\Toon_RTS_demo\animations\WK_heavy_infantry_08_attack_B.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\animations\WK_heavy_infantry_08_attack_B.FBX.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\animations\WK_heavy_infantry_08_attack_B.FBX.meta
+      projectPath: Assets\Toon_RTS_demo\animations\WK_heavy_infantry_08_attack_B.FBX.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\models.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\models.meta
+      projectPath: Assets\Toon_RTS_demo\models.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\models\Materials.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\models\Materials.meta
+      projectPath: Assets\Toon_RTS_demo\models\Materials.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\models\Materials\DemoTexture.mat
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\models\Materials\DemoTexture.mat
+      projectPath: Assets\Toon_RTS_demo\models\Materials\DemoTexture.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\models\Materials\DemoTexture.mat.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\models\Materials\DemoTexture.mat.meta
+      projectPath: Assets\Toon_RTS_demo\models\Materials\DemoTexture.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\models\Materials\DemoTexture.png
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\models\Materials\DemoTexture.png
+      projectPath: Assets\Toon_RTS_demo\models\Materials\DemoTexture.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\models\Materials\DemoTexture.png.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\models\Materials\DemoTexture.png.meta
+      projectPath: Assets\Toon_RTS_demo\models\Materials\DemoTexture.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\models\ToonRTS_demo_Knight.FBX
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\models\ToonRTS_demo_Knight.FBX
+      projectPath: Assets\Toon_RTS_demo\models\ToonRTS_demo_Knight.FBX
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\models\ToonRTS_demo_Knight.FBX.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\models\ToonRTS_demo_Knight.FBX.meta
+      projectPath: Assets\Toon_RTS_demo\models\ToonRTS_demo_Knight.FBX.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\models\ac_Footman.controller
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\models\ac_Footman.controller
+      projectPath: Assets\Toon_RTS_demo\models\ac_Footman.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Toon_RTS_demo\models\ac_Footman.controller.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\Toon_RTS_demo\models\ac_Footman.controller.meta
+      projectPath: Assets\Toon_RTS_demo\models\ac_Footman.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\anim.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\anim.meta
+      projectPath: Assets\anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\anim\Sword And Shield Idle.fbx
+      fullPath: C:\UnityProjects\Indoras\Assets\anim\Sword And Shield Idle.fbx
+      projectPath: Assets\anim\Sword And Shield Idle.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\anim\Sword And Shield Idle.fbx.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\anim\Sword And Shield Idle.fbx.meta
+      projectPath: Assets\anim\Sword And Shield Idle.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\anim\Sword And Shield Run.fbx
+      fullPath: C:\UnityProjects\Indoras\Assets\anim\Sword And Shield Run.fbx
+      projectPath: Assets\anim\Sword And Shield Run.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\anim\Sword And Shield Run.fbx.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\anim\Sword And Shield Run.fbx.meta
+      projectPath: Assets\anim\Sword And Shield Run.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\anim\Sword And Shield Slash.fbx
+      fullPath: C:\UnityProjects\Indoras\Assets\anim\Sword And Shield Slash.fbx
+      projectPath: Assets\anim\Sword And Shield Slash.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\anim\Sword And Shield Slash.fbx.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\anim\Sword And Shield Slash.fbx.meta
+      projectPath: Assets\anim\Sword And Shield Slash.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\anim\charAnimController.controller
+      fullPath: C:\UnityProjects\Indoras\Assets\anim\charAnimController.controller
+      projectPath: Assets\anim\charAnimController.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\anim\charAnimController.controller.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\anim\charAnimController.controller.meta
+      projectPath: Assets\anim\charAnimController.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\move.cs
+      fullPath: C:\UnityProjects\Indoras\Assets\move.cs
+      projectPath: Assets\move.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\move.cs.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\move.cs.meta
+      projectPath: Assets\move.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\moveCamera.cs
+      fullPath: C:\UnityProjects\Indoras\Assets\moveCamera.cs
+      projectPath: Assets\moveCamera.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\moveCamera.cs.meta
+      fullPath: C:\UnityProjects\Indoras\Assets\moveCamera.cs.meta
+      projectPath: Assets\moveCamera.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Packages\manifest.json
+      fullPath: C:\UnityProjects\Indoras\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\UnityProjects\Indoras\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\UnityProjects\Indoras\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\UnityProjects\Indoras\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\UnityProjects\Indoras\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\UnityProjects\Indoras\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\UnityProjects\Indoras\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\UnityProjects\Indoras\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\UnityProjects\Indoras\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\UnityProjects\Indoras\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\UnityProjects\Indoras\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\UnityProjects\Indoras\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\UnityProjects\Indoras\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\UnityProjects\Indoras\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\UnityProjects\Indoras\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\UnityProjects\Indoras\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\UnityProjects\Indoras\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\UnityProjects\Indoras\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: c788220b005426d74dc9493d5d120c3cd247f18d
+    mergeA: 
+    mergeB: 
+    authorName: Mo Alhmoud
+    authorEmail: malhmoud@live.com
+    commitEmail: malhmoud@live.com
+    commitName: Mo Alhmoud
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-09-06T20:49:39.000+03:00
+    commitTimeString: 2018-09-06T20:49:39.000+03:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\UnityProjects\Indoras\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\UnityProjects\Indoras\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: C:\UnityProjects\Indoras\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
